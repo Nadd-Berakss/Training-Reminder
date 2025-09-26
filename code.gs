@@ -82,7 +82,7 @@ function sendMorningReminder() {
 function sendNightFollowUp() {
 
   const headers = {
-    'Authorization': 'jU4xKGKGpH5Vx59191bG',
+    'Authorization': 'Masukkan Token Fonnte Anda',
     'Content-Type': 'application/json',
     'Accept': 'application/json'
   };
