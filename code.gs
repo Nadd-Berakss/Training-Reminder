@@ -24,7 +24,7 @@ function sendMorningReminder() {
 
   // Masukkan token api Fonnte anda ke bagian Authorization dan jangan hapus tanda petiknya
   const headers = {
-    'Authorization': 'jU4xKGKGpH5Vx59191bG',
+    'Authorization': 'Masukkan Token Fonnte Anda',
     'Content-Type': 'application/json',
     'Accept': 'application/json'
   };
