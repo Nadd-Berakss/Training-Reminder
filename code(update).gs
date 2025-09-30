@@ -4,7 +4,7 @@
 
 // Ganti dengan token Fonnte Anda
 const FONNTE_API_HEADERS = {
-  'Authorization': 'jU4xKGKGpH5Vx59191bG',
+  'Authorization': 'Masukkan Token Fonnte Anda',
   'Content-Type': 'application/json',
   'Accept': 'application/json'
 };
