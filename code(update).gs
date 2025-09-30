@@ -136,7 +136,7 @@ function sendNightFollowUp() {
 // FUNGSI 3: PENGINGAT TERLAMBAT (Cek setiap 30 menit)
 // ====================================================
 function sendLateReminder() {
-  const REMINDER_INTERVAL_MS = 30 * 60 * 1000;
+  const REMINDER_INTERVAL_MS = 60 * 60 * 1000;
   const currentTime = new Date().getTime();
 
   var spreadSheet = SpreadsheetApp.openByUrl(SpreadsheetApp.getActiveSpreadsheet().getUrl());
